@@ -29,9 +29,10 @@ This project implements a robust distributed communication system in Python, fea
 
 - Python 3.10+
 - OpenCV
-- Tkinter (usually comes pre-installed)
-- socket (built-in)
+- Tkinter 
+- socket (
 
 ## License
 
-MIT License (or add your preferred license here)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
