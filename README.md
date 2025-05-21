@@ -30,7 +30,7 @@ This project implements a robust distributed communication system in Python, fea
 - Python 3.10+
 - OpenCV
 - Tkinter 
-- socket (
+- socket 
 
 ## License
 
