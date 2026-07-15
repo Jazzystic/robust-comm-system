@@ -36,3 +36,7 @@ This project implements a robust distributed communication system in Python, fea
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+
+---
+
+Julio López - Data Architect | julio@gfgam.com.mx
